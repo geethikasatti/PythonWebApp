@@ -22,4 +22,4 @@ We deployed a Python-based web app hosted on GitHub to Azure App Service using a
 
 ### 2. Set Up Azure DevOps
 - Create a new project in *Azure DevOps*
-- Navigate to *Repos* and clone the GitHub repo:
+- Navigate to *Repos* and clone the GitHub repo:https://github.com/CKNAVIN1009/PythonWebApp
