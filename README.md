@@ -19,6 +19,10 @@ We deployed a Python-based web app hosted on GitHub to Azure App Service using a
 ### 1. Create Azure App Service
 - Go to [Azure Portal](https://portal.azure.com/)
 - Create a new *App Service* with your preferred configuration (Python version, region, etc.)
+### 2. Set Up Azure DevOps
+- Create a new project in *Azure DevOps*
+- Navigate to *Repos* and clone the GitHub repo:https://github.com/CKNAVIN1009/PythonWebApp
+
 ### 3. Create Service Connection
 - Navigate to *Project Settings > Service Connections*
 - Choose *Azure Resource Manager*
@@ -47,6 +51,3 @@ We deployed a Python-based web app hosted on GitHub to Azure App Service using a
 ✅ Automated deployment triggered on each push  
 ✅ Python app running successfully on Azure App Service
 
-### 2. Set Up Azure DevOps
-- Create a new project in *Azure DevOps*
-- Navigate to *Repos* and clone the GitHub repo:https://github.com/CKNAVIN1009/PythonWebApp
